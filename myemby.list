@@ -2,7 +2,7 @@
 
 
 # emby
-DOMAIN-SUFFIX,yzzz.tk:1111
+DOMAIN-SUFFIX,yzzz.tk
 
 # emby
-DOMAIN-SUFFIX,192.168.2.7:8096
+IP-CIDR,192.168.2.7,no-resolve
