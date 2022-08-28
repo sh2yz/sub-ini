@@ -5,4 +5,4 @@
 DOMAIN-SUFFIX,yzzz.tk
 
 # emby
-IP-CIDR,192.168.2.7,no-resolve
+IP-CIDR,192.168.2.7/32,no-resolve
