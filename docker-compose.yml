@@ -82,7 +82,7 @@ networks:
     ipam:
       driver: default
       config:
-        - subnet: fd00:ea23:9c80:4a54:e242:5f97::/96
-          gateway: fd00:ea23:9c80:4a54:e242:5f97::0
+        - subnet: fd00:ea23:9c80:4a54:e242:5f98::/96
+          gateway: fd00:ea23:9c80:4a54:e242:5f98::0
   aurora:
     driver: bridge
